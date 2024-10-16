@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anamta AI Wali - Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="profile-section">
+      <img src="image.png" alt="Anamta AI Wali" class="profile-pic">
+      <h1>Anamta AI Wali</h1>
+      <p>AI Enthusiast | Freelancer | TEDx Reviewer | Social Media Expert</p>
+    </div>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello, I'm Anamta Kashif, also known as Anamta AI Wali. I am passionate about artificial intelligence and technology, with a growing portfolio in video editing, graphic design, and AI consulting.</p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>AI & Machine Learning Basics</li>
+        <li>Graphic Design (Canva, Photoshop)</li>
+        <li>Video Editing & Podcasting</li>
+        <li>Social Media Management</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>TEDx Review Series</h3>
+        <p>A series of TEDx talk reviews on a wide range of topics such as self-motivation, empathy, AI ethics, and public speaking.</p>
+      </div>
+      <div class="project">
+        <h3>AI Consulting for Beginners</h3>
+        <p>Helping individuals and small businesses understand and implement AI in their processes.</p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>Feel free to reach out to me for collaborations or inquiries.</p>
+      <ul>
+        <li>Email: anamta.aiwali@example.com</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/anamta-aiwali">Anamta AI Wali</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Anamta AI Wali. All rights reserved.</p>
+  </footer>
+</body>
+</html>
